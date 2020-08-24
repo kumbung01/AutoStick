@@ -35,7 +35,6 @@
 
 #include "atstkChannel.h"
 #include "atstkChannels.h"
-//#include "Queue.h"
 #include "TCA9555.h"
 #include "LEDHandler.h"
 #include "utils.h"
@@ -77,7 +76,6 @@ DMA_HandleTypeDef hdma_usart1_tx;
 TCA9555			tca;
 atstkChannels 	sticks;				// drum stick channels
 LEDHandler		leds;				// led handler
-//Queue<midiTypeDef> midiQue(12);		// midi data queue
 unsigned char urx[4];				// midi uart data from esp32(size of midi is 4.)
 unsigned char utx[4000];
 extern uint8_t UserRxBufferFS[APP_RX_DATA_SIZE];
