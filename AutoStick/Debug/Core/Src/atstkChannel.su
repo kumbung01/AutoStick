@@ -1,0 +1,9 @@
+atstkChannel.cpp:16:6:void atstkChannel::set_config(GPIO_TypeDef*, uint8_t, TIM_HandleTypeDef*, uint8_t)	24	static
+atstkChannel.cpp:34:6:void atstkChannel::set(uint8_t)	24	static
+atstkChannel.cpp:41:6:void atstkChannel::init()	16	static
+atstkChannel.cpp:48:6:void atstkChannel::loop()	16	static
+atstkChannel.cpp:65:6:void atstkChannel::set_fault(bool)	16	static
+atstkChannel.cpp:74:6:void atstkChannel::setMotor(uint8_t)	24	static
+atstkChannel.cpp:88:6:void atstkChannel::idle()	16	static
+atstkChannel.cpp:97:6:void atstkChannel::down()	16	static
+atstkChannel.cpp:111:6:void atstkChannel::up()	16	static

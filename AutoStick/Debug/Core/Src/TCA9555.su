@@ -1,0 +1,3 @@
+TCA9555.cpp:13:6:void TCA9555::init(I2C_HandleTypeDef*, uint16_t, uint8_t)	48	static
+TCA9555.cpp:33:5:int TCA9555::set_output(uint8_t, int)	48	static
+TCA9555.cpp:50:10:uint8_t* TCA9555::get_input()	40	static

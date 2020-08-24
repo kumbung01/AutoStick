@@ -1,0 +1,17 @@
+usbd_midi.c:1921:17:USBD_MIDI_Init	24	static
+usbd_midi.c:2001:17:USBD_MIDI_DeInit	24	static
+usbd_midi.c:2030:17:USBD_MIDI_Setup	16	static
+usbd_midi.c:2044:17:USBD_MIDI_DataIn	24	static
+usbd_midi.c:2068:17:USBD_MIDI_DataOut	24	static
+usbd_midi.c:2097:17:USBD_MIDI_EP0_RxReady	16	static
+usbd_midi.c:2110:18:USBD_MIDI_GetFSCfgDesc	16	static
+usbd_midi.c:2123:18:USBD_MIDI_GetHSCfgDesc	16	static
+usbd_midi.c:2138:18:USBD_MIDI_GetOtherSpeedCfgDesc	16	static
+usbd_midi.c:2152:11:USBD_MIDI_GetDeviceQualifierDescriptor	16	static
+usbd_midi.c:2164:10:USBD_MIDI_RegisterInterface	24	static
+usbd_midi.c:2184:10:USBD_MIDI_SetTxBuffer	32	static
+usbd_midi.c:2206:10:USBD_MIDI_SetRxBuffer	24	static
+usbd_midi.c:2225:10:USBD_MIDI_IsTransmitterBusy	24	static
+usbd_midi.c:2245:9:USBD_MIDI_IsReceiverBusy	16	static
+usbd_midi.c:2257:10:USBD_MIDI_TransmitPacket	24	static
+usbd_midi.c:2294:13:USBD_MIDI_ReceivePacket	24	static

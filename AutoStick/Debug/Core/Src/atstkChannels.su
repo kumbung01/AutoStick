@@ -1,0 +1,3 @@
+atstkChannels.cpp:13:6:void atstkChannels::set_configs(channelConfig*, ADC_HandleTypeDef**, I2C_HandleTypeDef*)	56	static
+atstkChannels.cpp:37:6:void atstkChannels::loop()	24	static
+atstkChannels.cpp:45:6:void atstkChannels::set(const USBMIDIEventPacket&)	24	static

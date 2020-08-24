@@ -1,0 +1,3 @@
+sysTimer.c:22:6:sysTimerInitialize	8	static
+sysTimer.c:29:6:sysTimerDelay	24	static
+sysTimer.c:44:9:sysTimerGetTimeSince	24	static

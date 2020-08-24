@@ -1,0 +1,2 @@
+LEDHandler.cpp:13:6:void LEDHandler::init(UART_HandleTypeDef*, TCA9555*)	24	static
+LEDHandler.cpp:19:6:void LEDHandler::set(const USBMIDIEventPacket&)	24	static

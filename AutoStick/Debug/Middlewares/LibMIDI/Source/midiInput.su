@@ -1,0 +1,8 @@
+midiInput.c:43:6:midiInputInitialize	8	static
+midiInput.c:55:6:midiInputClear	8	static
+midiInput.c:63:6:midiInputIsEmpty	8	static
+midiInput.c:71:6:midiInputIsReceiving	16	static
+midiInput.c:85:10:midiInputEventPopAndStore	32	static
+midiInput.c:110:6:midiInputDataReceived	24	static
+midiInput.c:257:16:midiGetMessageLength	16	static
+midiInput.c:322:31:midiGetUSBMIDICodeIndexNumber	16	static

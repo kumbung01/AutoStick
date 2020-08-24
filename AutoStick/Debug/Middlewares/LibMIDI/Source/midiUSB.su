@@ -1,0 +1,8 @@
+midiUSB.c:65:6:midiUSBDeviceInitialize	8	static
+midiUSB.c:80:6:midiIsConnected	4	static
+midiUSB.c:88:15:midiUSBInitialize	8	static
+midiUSB.c:100:15:midiUSBDeinitialize	4	static
+midiUSB.c:110:15:midiUSBReceive	16	static
+midiUSB.c:125:6:midiUSBTask	8	static
+midiUSB.c:134:13:midiUSBProcessUSBTransmitEvent	16	static
+midiUSB.c:163:13:midiUSBProcessUSBReceivedEvent	8	static

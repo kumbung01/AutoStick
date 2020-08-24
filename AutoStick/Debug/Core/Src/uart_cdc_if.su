@@ -1,0 +1,4 @@
+uart_cdc_if.c:12:6:InitUartQueue	16	static
+uart_cdc_if.c:18:6:InitUartHandler	16	static
+uart_cdc_if.c:23:6:PutDataToUartQueue	16	static
+uart_cdc_if.c:33:7:GetDataFromUartQueue	24	static

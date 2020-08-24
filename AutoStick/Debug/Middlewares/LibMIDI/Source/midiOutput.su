@@ -1,0 +1,6 @@
+midiOutput.c:35:6:midiOutputInitialize	8	static
+midiOutput.c:44:6:midiOutputIsEmpty	8	static
+midiOutput.c:52:6:midiOutputIsTransmitting	16	static
+midiOutput.c:66:6:midiOutputEventPush	16	static
+midiOutput.c:76:6:midiOutputEventPopAndStore	32	static
+midiOutput.c:224:6:midiOutput	32	static

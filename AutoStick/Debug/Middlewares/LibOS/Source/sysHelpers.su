@@ -1,0 +1,2 @@
+sysHelpers.c:20:6:sysMemZero	16	static
+sysHelpers.c:30:6:sysMemCopy	24	static

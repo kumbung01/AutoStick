@@ -1,0 +1,5 @@
+midiEventQueue.c:26:6:midiEventQueueInitialize	24	static
+midiEventQueue.c:37:6:midiEventQueueIsEmpty	16	static
+midiEventQueue.c:45:6:midiEventQueueClear	16	static
+midiEventQueue.c:56:6:midiEventQueuePush	24	static
+midiEventQueue.c:81:20:midiEventQueuePop	32	static
