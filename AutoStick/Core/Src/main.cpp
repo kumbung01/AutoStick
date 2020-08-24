@@ -121,7 +121,7 @@ static void MX_TIM5_Init(void);
 void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart) {
 	if (huart->Instance == huart5.Instance) {
 		USBMIDIEventPacket midi;
-		sysMemCopy(&(midi.EventData), urx, sizeof(midi))
+		sysMemCopy(&(midi.EventData), urx, sizeof(midi));
 		midiOutputEventPush(midi);
 		HAL_UART_Receive_IT(&huart5, urx, sizeof(urx));
 	}
